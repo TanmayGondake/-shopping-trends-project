@@ -3,11 +3,8 @@
 
 The objective of the **Shopping Trends Data Analysis** project is to analyze consumer shopping behavior and identify key patterns in purchasing trends over time. The goal is to uncover insights into seasonal fluctuations, popular product categories, and customer preferences to help businesses optimize their sales strategies, inventory management, and marketing efforts. The project uses data analysis tools like Excel to organize, visualize, and interpret large datasets to support data-driven decision-making.
 ## Dataset Used
-- <a herf="https://github.com/TanmayGondake/-shopping-trends-project/blob/main/shopping%20trends%20project.xlsx">Shopping Trends Data</a>
-
- **Dataset used**
 - <a href="https://github.com/TanmayGondake/-shopping-trends-project/blob/main/shopping%20trends%20project.xlsx">Vrinda Store Data</a>
-## **Questions (KPIs)**
+## **Questions**
 
    - Which items are the lowest sales and low demand?
    - What characteristics (price, category, brand) contribute to the popularity of these items?
